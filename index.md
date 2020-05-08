@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ANN2b-MD/ANN2b-MD.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ANN2b-MD/ANN2b-MD.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## ようこそ [ANN2b](https://allnightnihon2b.net/) の GitHub Pages へ
+  
+リポジトリの紹介  
+  
+### [covid19](https://github.com/ANN2b-MD/covid19)
+  
+東京都新型コロナ感染症対策サイトのソースコードを元に山形県用にカスタマイズ（実際の上流は[新潟県版](https://github.com/air-h-128k-il/covid19)ですが）。  
+netlify と連携させて運用させてました。  
+  
+  
+### [QGIS](https://github.com/ANN2b-MD/QGIS)
+  
+  山形県の地図を描く際に利用しました。  
+  大変便利。  
+  
+### [laravel01](https://github.com/ANN2b-MD/laravel01)
+  
+  練習用です。  
+  
+### 関連リンク
+  
+item1  
+item2
